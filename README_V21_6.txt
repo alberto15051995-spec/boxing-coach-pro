@@ -1,1 +1,0 @@
-V21.6 parte de V21.5. Mantiene el detector funcional y añade medición suavizada del ángulo de ambos codos y confianza para diagnosticar la extensión del esqueleto.
