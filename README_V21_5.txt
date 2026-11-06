@@ -1,1 +1,0 @@
-Archivo auxiliar de compatibilidad conservado para mantener la estructura de despliegue de 7 archivos.
