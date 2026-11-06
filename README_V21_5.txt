@@ -1,0 +1,1 @@
+Archivo auxiliar de compatibilidad. Estructura PWA conservada.
