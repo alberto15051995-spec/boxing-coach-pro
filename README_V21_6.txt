@@ -1,0 +1,1 @@
+V21.8.1: corrección de paneles. Los diagnósticos antiguos están ocultos y el único panel V21.8 se integra dentro de la cámara, visible únicamente en modo inmersivo. Se conserva el detector V21.8.
